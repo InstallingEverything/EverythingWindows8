@@ -1,7 +1,12 @@
-Disable the Charms (this can be done with a Reg-Hack, though to a lesser extent can be achieved by right clicking on the taskbar, selecting Properties and then go to Navigation and Disable ("When I Point to the upper-right corner, show the charms". 
+# Charms Bar
+
+Disable the Charms Bar.
+
+Very easily done via a regkey change.
+
+We will also make this avaliable via our download.
 
 HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell\EdgeUI
-; 
     ValueName: DisableCharmsHint; ValueType: dword; ValueData: 1
     ValueName: DisableTRcorner; ValueType: dword; ValueData: 1
     ValueName: DisableTLcorner; ValueType: dword; ValueData: 1
