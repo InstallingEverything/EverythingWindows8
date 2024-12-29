@@ -14,3 +14,7 @@ Here we have compiled a bunch of fixes to help with the use if you so dare to us
 # Product Key
 
 [Product Key](productkey.md)
+
+# Keyboard Shortcuts
+
+[Keyboard Shortcuts](shortcuts.md)
