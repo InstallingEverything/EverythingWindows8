@@ -1,13 +1,13 @@
 ![Windows 8](Images/win-8.png)
 
-# Everything Windows 8
+# Everything Windows 8 & 8.1
 
 Microsoft's much hated operating system.
 
 Here we have compiled a bunch of fixes to help with the use if you so dare to use it.
 
 
-# Charms
+# Charms Bar
 
 [Charms](charms.md)
 
