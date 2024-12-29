@@ -18,3 +18,7 @@ Here we have compiled a bunch of fixes to help with the use if you so dare to us
 # Keyboard Shortcuts
 
 [Keyboard Shortcuts](shortcuts.md)
+
+# End of Life Notification
+
+[EOL](eol.md)
