@@ -10,10 +10,10 @@ We will also make this avaliable via our download.
 
     [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ImmersiveShell\EdgeUI]
 
-    ValueName: DisableCharmsHint; ValueType: dword; ValueData: 1
+    "DisableCharmsHint"=dword:1
     
-    ValueName: DisableTRcorner; ValueType: dword; ValueData: 1
+    "DisableTRcorner"=dword:1
     
-    ValueName: DisableTLcorner; ValueType: dword; ValueData: 1
+    "DisableTLcorner"=dword:1
 
 No need to reboot.
