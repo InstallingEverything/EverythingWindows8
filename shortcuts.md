@@ -1,21 +1,16 @@
 # Keyboard Shortcuts
 
 Win-D
-
-Hide all Apps and show the Desktop.
+    Hide all Apps and show the Desktop.
 
 Win-X
-
-Power User Options.
+    Power User Options.
 
 Win-C
-
-Brings up the Charms Bar.
+    Brings up the Charms Bar.
 
 Win-E
-
-Windows Explorer.
+    Windows Explorer.
 
 Win-R
-
-Run Command.
+    Run Command.
